@@ -1,1 +1,1 @@
-# Social Baddy
+# Social Buddy
